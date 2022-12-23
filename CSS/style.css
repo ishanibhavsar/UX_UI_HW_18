@@ -1,0 +1,77 @@
+img {
+  float: left;
+}
+
+
+ul {
+  float: left;
+  justify-content: center;
+}
+
+header {
+    height: 201px;
+    width: 100%;
+    background: #E19F90;
+    color: #5E5B5B;
+    font-size: 24px;
+  }
+
+  .textsetting1{
+    
+    width: 75%;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 15%;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    text-decoration-line: underline;
+}
+
+  .textsetting{
+    
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 15%;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+
+
+
+
+
+
+  .footerClass {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #44413C;
+    }
+    
+    .footerPara {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+    }
+    
+    .center-block {
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    
+    .center-button {
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+      background-color:orange;
+    } 
